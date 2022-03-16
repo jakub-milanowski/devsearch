@@ -151,7 +151,7 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'static/images')
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
-EMAIL_HOST_USER = 'collegtive.kontakt@gmail.com'
-EMAIL_HOST_PASSWORD = 'C0llegtive9102'
+EMAIL_HOST_USER = 'EMAIL'
+EMAIL_HOST_PASSWORD = 'PASSWORD'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
