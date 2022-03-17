@@ -1,4 +1,5 @@
 # DevSearch
+<img src="https://raw.githubusercontent.com/jakubmilanowskiwcy/devsearch/master/screenshots/main.png">
 DevSearch is a Django based project with a simple REST framework API
 
 <h1>Tech Stack </h1>
@@ -15,3 +16,4 @@ DevSearch is a Django based project with a simple REST framework API
   <li>Search for projects and developers</li>
   <li>Customize your profile</li>
 </ul>
+
